@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">ClaudeSwitcher — 계정은 바뀌어도, 작업은 이어지도록.</title>
+  <desc id="desc">Windows용 Claude Code 데스크탑 앱. 여러 계정, 하나의 작업 흐름.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#20201f"/><stop offset="1" stop-color="#151515"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d97757" stop-opacity=".14"/><stop offset="1" stop-color="#d97757" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="420" rx="24" fill="url(#bg)"/>
+  <ellipse cx="1050" cy="80" rx="420" ry="360" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="1279" height="419" rx="24" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+  <g font-family="Segoe UI, Malgun Gothic, sans-serif">
+    <rect x="56" y="49" width="226" height="30" rx="15" fill="#d97757" fill-opacity=".13"/>
+    <circle cx="75" cy="64" r="3" fill="#d97757"/>
+    <text x="89" y="69" fill="#e7a18a" font-size="12" letter-spacing="1.4">CLAUDE CODE · WINDOWS</text>
+    <text x="56" y="140" fill="#f0f0f0" font-size="46" font-weight="650" letter-spacing="-1.5">ClaudeSwitcher</text>
+    <text x="56" y="213" fill="#f0f0f0" font-size="32" font-weight="600" letter-spacing="-1">계정은 바뀌어도,</text>
+    <text x="56" y="258" fill="#e7a18a" font-size="32" font-weight="600" letter-spacing="-1">작업은 이어지도록.</text>
+    <text x="56" y="308" fill="#b4b4af" font-size="16">여러 계정, 하나의 작업 흐름.</text>
+    <text x="56" y="363" fill="#84847f" font-size="12" letter-spacing="1">MULTI-ACCOUNT  /  SHARED SESSIONS  /  DESKTOP UI</text>
+    <rect x="740" y="63" width="476" height="294" rx="18" fill="#1c1c1c" stroke="#41413d"/>
+    <path d="M740 108h476" stroke="#353532"/>
+    <circle cx="763" cy="86" r="4" fill="#d97757"/><circle cx="779" cy="86" r="4" fill="#706b60"/><circle cx="795" cy="86" r="4" fill="#51594f"/>
+    <text x="823" y="91" fill="#b4b4af" font-size="12">SESSION / 계속되는 작업</text>
+    <rect x="764" y="130" width="428" height="55" rx="10" fill="#252525"/>
+    <circle cx="787" cy="157" r="5" fill="#8c8275"/>
+    <text x="806" y="155" fill="#c4c4c4" font-size="14">계정 A</text><text x="806" y="173" fill="#8e8e89" font-size="11">사용량 한도 도달</text>
+    <text x="1118" y="162" fill="#a69a8b" font-size="12">대기</text>
+    <path d="M787 191v16m-4-4 4 4 4-4" fill="none" stroke="#d97757" stroke-width="1.5"/>
+    <text x="806" y="204" fill="#d99a83" font-size="11">같은 세션으로 자동 전환</text>
+    <rect x="764" y="220" width="428" height="55" rx="10" fill="#292522" stroke="#d97757" stroke-opacity=".45"/>
+    <circle cx="787" cy="247" r="5" fill="#93b497"/>
+    <text x="806" y="245" fill="#ededeb" font-size="14">계정 B</text><text x="806" y="263" fill="#a3a39b" font-size="11">대화와 작업 폴더를 이어서</text>
+    <text x="1106" y="252" fill="#a6c2a8" font-size="12">진행 중</text>
+    <path d="m768 314 5 5 9-11" fill="none" stroke="#a6c2a8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="795" y="319" fill="#a3a39b" font-size="12">한 화면에서 대화 · 사용량 · 작업 현황</text>
+  </g>
+</svg>
